@@ -7,7 +7,7 @@ import urllib
 
 
 #https://api.telegram.org/bot<token>/METHOD_NAME
-TOKEN = "533804285:AAEe2rPVteUWZ9wLeCqCb3CH3ilUY_fLae0"
+TOKEN = "533804285:AAEe2rPVteUWZ9wLeCqCb3CH3ilUY_fLabc"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 
